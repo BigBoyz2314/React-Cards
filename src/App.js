@@ -1,7 +1,4 @@
-import './App.css';
-
 //Components
-
 import Header from './components/Header';
 import TodoForm from './components/TodoForm';
 import Todos from './components/Todos';
